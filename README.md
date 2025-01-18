@@ -14,15 +14,14 @@
 and ➖ click the minus symbol to decrease it if you make a mistake.
 
 <p align="center">
-<img src="Project Preview/Preview2.JPG" >
+<img src="Project Preview/Preview3.JPG" >
 </p>
-
 
 
 🔄 When you finish, simply click the reset button to start over.
 
 <p align="center">
-<img src="Project Preview/Preview3.JPG" >
+<img src="Project Preview/Preview2.JPG" >
 </p>
 
 ## Disclaimer
